@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "divi-scripts": "1.0.1",
+    "my-extension": "file:",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   },
